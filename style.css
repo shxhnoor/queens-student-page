@@ -1,8 +1,8 @@
 :root {
   --red:#aa1e22; --gold:#f2a900; --navy:#0d1b2a;
 }
-body { font-family: "Georgia" system-ui, sans-serif; margin:0; background:var(--red); color:#fde2e4; }
-header { background:var(--blue); color:#ffe4b5; padding:1rem; }
+body { font-family: "Georgia" system-ui, sans-serif; margin:0; background:#1a1a1a; color:#1a1a1a; }
+header { background:var(--blue); color:#ffe4b5; padding:1rem; text-align: center; }
 main { background:#fff; color:#1a1a1a; max-width:900px; margin:2rem auto; border-radius:12px; padding:1.5rem; }
 a { color: var(--red); }
 /* === personalize below by changing colors or spacing === */
